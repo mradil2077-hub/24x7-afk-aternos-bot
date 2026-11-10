@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "playprimesmp.aternos.me",
+    "port": 35431,
     "version": "1.20.1",
     "try-creative": false
   },
