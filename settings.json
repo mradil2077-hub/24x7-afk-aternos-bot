@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "BOTBHAI",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "playprimesmp.aternos.me",
-    "port": 35431,
+    "ip": "mc-prime.aternos.me",
+    "port": 64859,
     "version": "1.20.1",
     "try-creative": false
   },
